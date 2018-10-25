@@ -1,6 +1,3 @@
-# USAGE
-# python ocr_template_match.py --image images/credit_card_01.png --reference ocr_a_reference.png
-
 # import the necessary packages
 from imutils import contours
 import numpy as np
